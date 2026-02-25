@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446986083030",
+    "project_id": "zoo-app-d7d27",
+    "storage_bucket": "zoo-app-d7d27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446986083030:android:8df8ad1c6feaa119dc8777",
+        "android_client_info": {
+          "package_name": "com.example.zoo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01vqVRLP9cMXoYvkZNQSA6KXBfIM9mT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
